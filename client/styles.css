@@ -1,0 +1,28 @@
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+  background-color: #283E4A
+}
+
+h1 {
+  color: white;
+  text-align: left;
+}
+
+.input-box {
+  text-align: center;
+  margin-top: 15px;
+}
+
+input[type="text"] {
+  text-align: center;
+}
+
+button {
+  margin-top: 15px;
+}
+
+.container {
+  margin:  auto;
+}

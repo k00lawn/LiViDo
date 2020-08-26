@@ -1,0 +1,18 @@
+{
+  "name": "linkedinvideodownloader",
+  "version": "1.0.0",
+  "description": "LinkedIn Video Downloader",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k00lawn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
